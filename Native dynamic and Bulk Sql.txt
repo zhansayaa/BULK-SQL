@@ -1,0 +1,3 @@
+Use OT database. Add one more column which saves salary of employee. Give random salary to the employee. However, don’t forget to consider his position and how many years he works for the company. After you set salary to each employee, suppose you asked to write a procedure that accepts a job title and a salary percentage increase and gives everyone in that position a raise by the specified percentage.
+
+*USE BULK COLLECT INTO and FOR ALL Statements
